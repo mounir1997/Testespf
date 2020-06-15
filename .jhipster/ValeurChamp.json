@@ -1,0 +1,22 @@
+{
+    "name": "ValeurChamp",
+    "fields": [
+        {
+            "fieldName": "valeur",
+            "fieldType": "String",
+            "fieldValidateRules": [
+                "required"
+            ]
+        }
+    ],
+    "relationships": [],
+    "changelogDate": "20200528181409",
+    "entityTableName": "valeur_champ",
+    "dto": "no",
+    "pagination": "no",
+    "service": "no",
+    "jpaMetamodelFiltering": false,
+    "fluentMethods": true,
+    "clientRootFolder": "",
+    "applications": "*"
+}

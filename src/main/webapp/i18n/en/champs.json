@@ -1,0 +1,25 @@
+
+{
+    "rctSampleApplicationApp": {
+        "champs" : {
+            "home": {
+                "title": "Champs",
+                "createLabel": "Create a new Champs",
+                "createOrEditLabel": "Create or edit a Champs"
+            },
+            "created": "A new Champs is created with identifier {{ param }}",
+            "updated": "A Champs is updated with identifier {{ param }}",
+            "deleted": "A Champs is deleted with identifier {{ param }}",
+            "delete": {
+                "question": "Are you sure you want to delete Champs {{ id }}?"
+            },
+            "detail": {
+                "title": "Champs"
+            },
+            "code": "Code",
+            "position": "Position",
+            "longueur": "Longueur",
+            "type": "Type"
+        }
+    }
+}

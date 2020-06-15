@@ -1,0 +1,22 @@
+
+{
+    "rctSampleApplicationApp": {
+        "ligneESPF" : {
+            "home": {
+                "title": "LigneESPFS",
+                "createLabel": "Créer un nouveau Ligne ESPF",
+                "createOrEditLabel": "Créer ou éditer un Ligne ESPF"
+            },
+            "created": "Un nouveau Ligne ESPF a été créé avec l'identifiant {{ param }}",
+            "updated": "Le Ligne ESPF avec l'identifiant {{ param }} a été mis à jour",
+            "deleted": "Le Ligne ESPF avec l'identifiant {{ param }} a été supprimé",
+            "delete": {
+                "question": "Etes-vous certain de vouloir supprimer le Ligne ESPF {{ id }} ?"
+            },
+            "detail": {
+                "title": "Ligne ESPF"
+            },
+            "code": "Code"
+        }
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "name": "Valeurs",
+    "fields": [
+        {
+            "fieldName": "valeur",
+            "fieldType": "String",
+            "fieldValidateRules": [
+                "required"
+            ]
+        }
+    ],
+    "relationships": [],
+    "changelogDate": "20200528181413",
+    "entityTableName": "valeurs",
+    "dto": "no",
+    "pagination": "no",
+    "service": "no",
+    "jpaMetamodelFiltering": false,
+    "fluentMethods": true,
+    "clientRootFolder": "",
+    "applications": "*"
+}

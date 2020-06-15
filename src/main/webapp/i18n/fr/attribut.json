@@ -1,0 +1,23 @@
+
+{
+    "rctSampleApplicationApp": {
+        "attribut" : {
+            "home": {
+                "title": "Attributs",
+                "createLabel": "Créer un nouveau Attribut",
+                "createOrEditLabel": "Créer ou éditer un Attribut"
+            },
+            "created": "Un nouveau Attribut a été créé avec l'identifiant {{ param }}",
+            "updated": "Le Attribut avec l'identifiant {{ param }} a été mis à jour",
+            "deleted": "Le Attribut avec l'identifiant {{ param }} a été supprimé",
+            "delete": {
+                "question": "Etes-vous certain de vouloir supprimer le Attribut {{ id }} ?"
+            },
+            "detail": {
+                "title": "Attribut"
+            },
+            "code": "Code",
+            "valeur": "Valeur"
+        }
+    }
+}

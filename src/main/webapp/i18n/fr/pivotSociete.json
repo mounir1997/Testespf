@@ -1,0 +1,22 @@
+
+{
+    "rctSampleApplicationApp": {
+        "pivotSociete" : {
+            "home": {
+                "title": "PivotSocietes",
+                "createLabel": "Créer un nouveau Pivot Societe",
+                "createOrEditLabel": "Créer ou éditer un Pivot Societe"
+            },
+            "created": "Un nouveau Pivot Societe a été créé avec l'identifiant {{ param }}",
+            "updated": "Le Pivot Societe avec l'identifiant {{ param }} a été mis à jour",
+            "deleted": "Le Pivot Societe avec l'identifiant {{ param }} a été supprimé",
+            "delete": {
+                "question": "Etes-vous certain de vouloir supprimer le Pivot Societe {{ id }} ?"
+            },
+            "detail": {
+                "title": "Pivot Societe"
+            },
+            "nom": "Nom"
+        }
+    }
+}

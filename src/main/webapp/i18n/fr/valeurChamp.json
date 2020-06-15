@@ -1,0 +1,22 @@
+
+{
+    "rctSampleApplicationApp": {
+        "valeurChamp" : {
+            "home": {
+                "title": "ValeurChamps",
+                "createLabel": "Créer un nouveau Valeur Champ",
+                "createOrEditLabel": "Créer ou éditer un Valeur Champ"
+            },
+            "created": "Un nouveau Valeur Champ a été créé avec l'identifiant {{ param }}",
+            "updated": "Le Valeur Champ avec l'identifiant {{ param }} a été mis à jour",
+            "deleted": "Le Valeur Champ avec l'identifiant {{ param }} a été supprimé",
+            "delete": {
+                "question": "Etes-vous certain de vouloir supprimer le Valeur Champ {{ id }} ?"
+            },
+            "detail": {
+                "title": "Valeur Champ"
+            },
+            "valeur": "Valeur"
+        }
+    }
+}

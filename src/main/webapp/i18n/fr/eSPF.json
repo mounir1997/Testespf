@@ -1,0 +1,23 @@
+
+{
+    "rctSampleApplicationApp": {
+        "eSPF" : {
+            "home": {
+                "title": "ESPFS",
+                "createLabel": "Créer un nouveau ESPF",
+                "createOrEditLabel": "Créer ou éditer un ESPF"
+            },
+            "created": "Un nouveau ESPF a été créé avec l'identifiant {{ param }}",
+            "updated": "Le ESPF avec l'identifiant {{ param }} a été mis à jour",
+            "deleted": "Le ESPF avec l'identifiant {{ param }} a été supprimé",
+            "delete": {
+                "question": "Etes-vous certain de vouloir supprimer le ESPF {{ id }} ?"
+            },
+            "detail": {
+                "title": "ESPF"
+            },
+            "code": "Code",
+            "date": "Date"
+        }
+    }
+}

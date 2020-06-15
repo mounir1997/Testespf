@@ -1,0 +1,22 @@
+
+{
+    "rctSampleApplicationApp": {
+        "valeurs" : {
+            "home": {
+                "title": "Valeurs",
+                "createLabel": "Create a new Valeurs",
+                "createOrEditLabel": "Create or edit a Valeurs"
+            },
+            "created": "A new Valeurs is created with identifier {{ param }}",
+            "updated": "A Valeurs is updated with identifier {{ param }}",
+            "deleted": "A Valeurs is deleted with identifier {{ param }}",
+            "delete": {
+                "question": "Are you sure you want to delete Valeurs {{ id }}?"
+            },
+            "detail": {
+                "title": "Valeurs"
+            },
+            "valeur": "Valeur"
+        }
+    }
+}

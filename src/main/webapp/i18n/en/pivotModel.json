@@ -1,0 +1,22 @@
+
+{
+    "rctSampleApplicationApp": {
+        "pivotModel" : {
+            "home": {
+                "title": "Pivot Models",
+                "createLabel": "Create a new Pivot Model",
+                "createOrEditLabel": "Create or edit a Pivot Model"
+            },
+            "created": "A new Pivot Model is created with identifier {{ param }}",
+            "updated": "A Pivot Model is updated with identifier {{ param }}",
+            "deleted": "A Pivot Model is deleted with identifier {{ param }}",
+            "delete": {
+                "question": "Are you sure you want to delete Pivot Model {{ id }}?"
+            },
+            "detail": {
+                "title": "Pivot Model"
+            },
+            "nom": "Nom"
+        }
+    }
+}

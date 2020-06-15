@@ -1,0 +1,53 @@
+entity Utilisateur{
+
+	nom String required,
+    mdp String required,
+    role String required
+}
+
+
+entity Projet{
+	nom String required,
+	devise String required,
+    periodicite String required,
+    date LocalDate required
+}
+relationship ManyToOne {
+	Projet{utilisateur(login) } to Utilisateur
+}
+
+entity PivotModel{
+	nom String required
+}
+
+entity PivotSociete{
+	nom String required
+}
+
+entity ESPF{
+	code String required,
+    date Instant required
+}
+
+entity ValeurChamp{
+	valeur String required
+}
+entity LigneESPF{
+	code String required
+}
+
+entity Champs{
+	code String required,
+    position String required,
+    longueur String required,
+    type String required
+}
+
+entity Attribut{
+	code String required,    
+    valeur String required
+}
+
+entity Valeurs{
+    valeur String required
+}

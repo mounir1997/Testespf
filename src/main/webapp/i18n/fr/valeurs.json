@@ -1,0 +1,22 @@
+
+{
+    "rctSampleApplicationApp": {
+        "valeurs" : {
+            "home": {
+                "title": "Valeurs",
+                "createLabel": "Créer un nouveau Valeurs",
+                "createOrEditLabel": "Créer ou éditer un Valeurs"
+            },
+            "created": "Un nouveau Valeurs a été créé avec l'identifiant {{ param }}",
+            "updated": "Le Valeurs avec l'identifiant {{ param }} a été mis à jour",
+            "deleted": "Le Valeurs avec l'identifiant {{ param }} a été supprimé",
+            "delete": {
+                "question": "Etes-vous certain de vouloir supprimer le Valeurs {{ id }} ?"
+            },
+            "detail": {
+                "title": "Valeurs"
+            },
+            "valeur": "Valeur"
+        }
+    }
+}
